@@ -1,0 +1,1 @@
+from .ncs2py import load_ncs
